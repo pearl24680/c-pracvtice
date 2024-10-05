@@ -1,0 +1,66 @@
+conditional --> conditions
+if (a>b)
+{
+cout<< "answer is a";
+}
+else
+{
+cout<<"answer is b";
+}
+
+
+#include<iostream>
+using namespace std;
+int main() {
+   int n;
+    cin>>n;
+    cout<<"value of n:"<<endl;
+    if (n>0){
+        cout<<"A isa +ve"<<endl;
+    }
+    else{
+      cout<<"A is -ve"<<endl;  
+    }
+}
+
+cin doesnt read space ,tab,enter
+cin.get()
+
+
+if{
+  
+}
+else if{
+}
+else if{
+}
+else{
+}
+
+
+LOOPING
+while loop 
+
+while ()
+{
+
+}
+
+
+#include<iostream>
+using  namespace std;
+int main()
+{
+  int n;
+  cin>>n;
+  int i= 1
+while(i<=n)
+{
+ count<<i<<endl;
+ i=i+1;
+}
+}
+
+
+
+
